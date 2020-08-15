@@ -7,7 +7,6 @@
 ## 3. set the value of the inverse
 ## 4. get the value of the inverse
 
-
 ## cacheSolve() computes the inverse of the special matrix that
 ## is returned by makeCacheMatrix(). If the inverse is calculated
 ## already, cached value is returned.
